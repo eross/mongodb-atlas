@@ -11,7 +11,9 @@
   "author": "Maximilian Schwarzmüller",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^1.18.3"
+    "nodemon": "^1.18.3",
+    "got": ">=11.8.5",
+    "braces": ">=3.0.3"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
